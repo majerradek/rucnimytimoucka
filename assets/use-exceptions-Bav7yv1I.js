@@ -1,1 +1,0 @@
-import{s as e}from"./admin-Bn_cnXxs.js";import{t}from"./use-api-query-LentIG_H.js";function n(e){return t(`admin.listExceptions`,e?{from:e}:{})}function r(){return e(`admin.saveException`)}function i(){return e(`admin.deleteException`)}export{n,r,i as t};

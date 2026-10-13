@@ -1,0 +1,1 @@
+import{n as e}from"./preload-helper-D4CWyceO.js";import{C as t,v as n}from"./rating-q2SWYoWH.js";var r=e();function i({settings:e}){return(0,r.jsxs)(`div`,{className:`mobile-book`,children:[(0,r.jsx)(`a`,{className:`button`,href:n(),children:`Rezervovat termín`}),(0,r.jsx)(`a`,{href:t(e.phone),children:`Zavolat`})]})}export{i as t};
