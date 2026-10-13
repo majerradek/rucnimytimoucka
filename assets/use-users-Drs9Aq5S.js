@@ -1,1 +1,0 @@
-import{o as e}from"./admin-Dsk_NbJ8.js";import{t}from"./use-api-query-BeLk4Oe-.js";function n(){return t(`admin.listUsers`,{})}function r(){return e(`admin.createUser`)}function i(){return e(`admin.updateUser`)}function a(){return e(`admin.setUserPassword`)}function o(){return e(`admin.deleteUser`)}export{n as a,i,o as n,a as r,r as t};
