@@ -1,0 +1,1 @@
+import{t as e}from"./use-api-query-BeLk4Oe-.js";function t(t){return e(`admin.getBooking`,t?{id:t}:null)}export{t};

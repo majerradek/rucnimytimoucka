@@ -1,0 +1,1 @@
+import{o as e}from"./admin-Dsk_NbJ8.js";import{t}from"./use-api-query-BeLk4Oe-.js";function n(e){return t(`admin.listExceptions`,e?{from:e}:{})}function r(){return e(`admin.saveException`)}function i(){return e(`admin.deleteException`)}export{n,r,i as t};

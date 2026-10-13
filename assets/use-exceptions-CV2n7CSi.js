@@ -1,1 +1,0 @@
-import{o as e}from"./admin-BSZhyiS7.js";import{t}from"./use-api-query-BGm_iytt.js";function n(e){return t(`admin.listExceptions`,e?{from:e}:{})}function r(){return e(`admin.saveException`)}function i(){return e(`admin.deleteException`)}export{n,r,i as t};
