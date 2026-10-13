@@ -1,0 +1,1 @@
+import{s as e}from"./admin-Bn_cnXxs.js";function t(){return e(`admin.setBookingStatus`)}function n(){return e(`admin.moveBooking`)}function r(){return e(`admin.updateBooking`)}function i(){return e(`admin.createBooking`)}export{r as i,n,t as r,i as t};

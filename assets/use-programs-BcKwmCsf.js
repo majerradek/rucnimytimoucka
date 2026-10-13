@@ -1,0 +1,1 @@
+import{s as e}from"./admin-Bn_cnXxs.js";import{t}from"./use-api-query-LentIG_H.js";function n(){return t(`admin.listPrograms`,{})}function r(e){return t(`admin.getProgram`,e?{id:e}:null)}function i(){return e(`admin.saveProgram`)}function a(){return e(`admin.deleteProgram`)}function o(){return t(`admin.getProgramIssues`,{})}export{i as a,n as i,r as n,o as r,a as t};

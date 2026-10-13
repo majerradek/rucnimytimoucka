@@ -1,0 +1,1 @@
+import{s as e}from"./admin-Bn_cnXxs.js";import{t}from"./use-api-query-LentIG_H.js";function n(){return t(`admin.getSettings`,{})}function r(){return e(`admin.updateSettings`)}function i(){return e(`admin.sendTestEmail`)}function a(){return e(`admin.changePassword`)}function o(){return e(`admin.testGoogleReviews`)}export{r as a,o as i,i as n,n as r,a as t};
