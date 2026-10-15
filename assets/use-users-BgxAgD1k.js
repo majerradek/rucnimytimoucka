@@ -1,0 +1,1 @@
+import{t as e}from"./use-api-query-Dfxp8JFf.js";import{h as t}from"./admin-C1pgsJi8.js";function n(){return e(`admin.listUsers`,{})}function r(){return t(`admin.createUser`)}function i(){return t(`admin.updateUser`)}function a(){return t(`admin.setUserPassword`)}function o(){return t(`admin.deleteUser`)}export{n as a,i,o as n,a as r,r as t};
