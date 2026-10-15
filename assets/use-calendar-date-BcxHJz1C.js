@@ -1,1 +1,0 @@
-import{i as e,n as t}from"./jsx-runtime-Dk72oS4N.js";import{E as n,l as r,s as i}from"./admin-CQGomQhH.js";var a=e(t(),1);function o(){let[e,t]=n(),o=i();return{date:r(e.get(`d`),o),today:o,setDate:(0,a.useCallback)(e=>{t(t=>{let n=new URLSearchParams(t);return e===i()?n.delete(`d`):n.set(`d`,e),n})},[t])}}export{o as t};
