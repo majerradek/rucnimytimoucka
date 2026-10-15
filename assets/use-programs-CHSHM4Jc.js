@@ -1,1 +1,0 @@
-import{t as e}from"./use-api-query-Dfxp8JFf.js";import{h as t}from"./admin-D5jjzF6C.js";function n(){return e(`admin.listPrograms`,{})}function r(t){return e(`admin.getProgram`,t?{id:t}:null)}function i(){return t(`admin.saveProgram`)}function a(){return t(`admin.deleteProgram`)}function o(){return e(`admin.getProgramIssues`,{})}export{i as a,n as i,r as n,o as r,a as t};
