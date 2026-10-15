@@ -1,1 +1,0 @@
-import{t as e}from"./use-api-query-Dfxp8JFf.js";import{h as t}from"./admin-C1pgsJi8.js";function n(){return e(`admin.getSettings`,{})}function r(){return t(`admin.updateSettings`)}function i(){return t(`admin.sendTestEmail`)}function a(){return t(`admin.changePassword`)}function o(){return t(`admin.testGoogleReviews`)}export{r as a,o as i,i as n,n as r,a as t};
