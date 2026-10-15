@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-Dk72oS4N.js";import{D as t,S as n}from"./Bubbles-B_KVFw2W.js";var r=e();function i({settings:e}){return(0,r.jsxs)(`div`,{className:`mobile-book`,children:[(0,r.jsx)(`a`,{className:`button`,href:n(),children:`Rezervovat termín`}),(0,r.jsx)(`a`,{className:`button outline`,href:t(e.phone),children:`Zavolat`})]})}export{i as t};

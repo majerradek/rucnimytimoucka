@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-Dk72oS4N.js";import{w as t,y as n}from"./rating-B3HL0m9f.js";var r=e();function i({settings:e}){return(0,r.jsxs)(`div`,{className:`mobile-book`,children:[(0,r.jsx)(`a`,{className:`button`,href:n(),children:`Rezervovat termín`}),(0,r.jsx)(`a`,{href:t(e.phone),children:`Zavolat`})]})}export{i as t};
