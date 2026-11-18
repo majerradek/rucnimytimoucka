@@ -1,0 +1,1 @@
+import{t as e}from"./use-api-query-DORFD4fe.js";import{h as t}from"./admin-DOVVv9sr.js";function n(t){return e(`admin.listExceptions`,t?{from:t}:{})}function r(){return t(`admin.saveException`)}function i(){return t(`admin.deleteException`)}export{n,r,i as t};
